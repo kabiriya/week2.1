@@ -1,0 +1,76 @@
+h1
+{
+	font-size: 50px;
+	text-align: center;
+	padding: 10px;
+	margin: 3px;
+	color: black;
+	background-color: khaki;
+	font-family: 'Shadows Into Light', cursive;
+}
+
+nav
+{
+	margin: 5px;
+	margin-left: 25em;
+	font-size: 20px;
+	text-align: center;
+	width: 700px;
+	padding: 5px;
+}
+
+nav a
+{
+	background: khaki;
+	border: 20px;
+}
+
+main img
+{
+	 margin: 3px;
+	 width: 50%;
+	 height: auto;
+	 margin-left: 25%;
+	 /*float: right;*/
+}
+
+main
+{
+	margin-high: 0px;
+	margin-left: 10px;
+	margin-right: 10px;
+	background-color: beige;
+}
+
+h2
+{
+	text-align: center;
+	color: black;
+	background-color: khaki;
+	padding: 10px;
+}
+
+p
+{
+	font-size: 20px;
+	text-align: justify;
+	font-family: Times New Roman;
+}
+
+ul
+{
+	font-size: 18px;
+	margin: 3px;
+	padding: 3px;
+}
+
+body
+{
+	text-align: justify;
+	background-color: bisque;
+	padding: 100px;
+	background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/70/72/5257b6c12d89875.jpg");
+	background-size: 100%;
+    background-repeat: repeat;
+}
+

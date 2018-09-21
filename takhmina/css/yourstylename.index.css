@@ -1,0 +1,68 @@
+h1
+{
+	font-size: 50px;
+	text-align: center;
+	padding: 10px;
+	margin: 3px;
+	color: black;
+	font-family: 'Shadows Into Light', cursive;
+	background-image: url("https://img.freepik.com/free-vector/beige-geometric-background_1378-203.jpg?size=338&ext=jpg");
+}
+
+nav
+{
+	margin: 5px;
+	margin-left: 25em;
+	font-size: 20px;
+	text-align: center;
+	width: 700px;
+	padding: 5px;
+}
+
+nav a
+{
+	background: khaki;
+	border: 20px;
+}
+
+ main img
+{
+	 margin: 10px;
+	 width: 35%;
+	 height: auto;
+	 float: left;
+}
+
+main
+{
+	margin-high: 0px;
+	margin-left: 10px;
+	margin-right: 10px;
+	background-image: url("https://img.freepik.com/free-vector/beige-geometric-background_1378-203.jpg?size=338&ext=jpg");
+}
+
+h2
+{
+	text-align: justify;
+	color: black;
+	padding: 10px;
+	background-image: url("https://img.freepik.com/free-vector/beige-geometric-background_1378-203.jpg?size=338&ext=jpg");
+    background-repeat: repeat-x;
+}
+
+p
+{
+	font-size: 30px;
+	text-align: justify;
+	font-family: Times New Roman;
+}
+
+body
+{
+	background-image: url("http://www.ecipa.eu/wp-content/uploads/2018/02/leaf-nature-green-spring-158780-1.jpeg");
+	text-align: justify;
+	background-color: bisque;
+	padding: 100px;
+	background-size: 100%;
+    background-repeat: repeat;
+}
